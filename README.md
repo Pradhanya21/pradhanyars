@@ -5,11 +5,11 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhanyars&label=Profile%20views&color=0e75b6&style=flat" alt="pradhanyars" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, DevOps**
+- 🌱 I’m currently learning **Deep Learning, DevOps.**
 
-- 💬 Ask me about **Machine Learning, React**
+- 💬 Ask me about **Machine Learning, React.**
 
-- 📫 How to reach me **rspradhanya13@gmail.com**
+- 📫 How to reach me **rspradhanya13@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
