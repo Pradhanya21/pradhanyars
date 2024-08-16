@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pradhanya</h1>
+ <h1 align="center">Hi 👋, I'm Pradhanya</h1>
 <h3 align="center">A passionate ML engineer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
